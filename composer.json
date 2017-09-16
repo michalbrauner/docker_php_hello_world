@@ -1,0 +1,14 @@
+{
+  "name": "michalbrauner/docker_hello_world",
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "": "src"
+    }
+  },
+  "require": {
+  },
+  "require-dev": {
+    "phpunit/phpunit": "5.7"
+  }
+}
